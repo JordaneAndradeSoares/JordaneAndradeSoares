@@ -1,6 +1,6 @@
 - 👋 Eu sou Jordane Andrade Soares
 - 👀 Estou desenvolvendo em projeto de faculdade no github.com
-- 😀 O projeto é criar um programa para treinar tabuada, por exemplo:
+- 😀 Minha matrícula é 5106 e no momento estou trabalhando sozinho. O projeto é criar um programa para treinar tabuada, por exemplo:
 
 #include<stdio.h>
 
